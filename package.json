@@ -1,7 +1,7 @@
 {
-  "name": "Alpha Botzz",
+  "name": "alphabotzz",
   "version": "0.0.1",
-  "description": "Alpha Botz",
+  "description": "alphabotz",
   "main": "node .",
   "directories": {
     "lib": "lib"
