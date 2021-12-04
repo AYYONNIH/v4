@@ -1,14 +1,14 @@
 {
-  "name": "alphabotzz",
+  "name": "pipibotzz",
   "version": "0.0.1",
-  "description": "alphabotz",
+  "description": "Pipi Botz",
   "main": "node .",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node."
+    "start": "node ."
   },
   "keywords": [
     "termux",
@@ -71,4 +71,3 @@
     "url": "https://github.com/dcode-denpa/bitch-boot/issues"
   },
   "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
-}
